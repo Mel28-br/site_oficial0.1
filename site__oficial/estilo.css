@@ -117,8 +117,13 @@ section {
 #btn_mat {
     margin-top: 30px;
     margin-left: 40px;
+<<<<<<< HEAD
     padding-block: 15px;
     padding-inline: 30px;
+=======
+    padding-inline: 10px;
+    padding-block: 20px;
+>>>>>>> 4f84e6689a163b8112e9fdb13f2c0ba2753178c5
     border: none;
     font-size: 15px;
     font-weight: bold;
@@ -135,8 +140,13 @@ section {
 #btn_agen {
     margin-top: 30px;
     margin-left: 40px;
+<<<<<<< HEAD
     padding-inline: 15px;
     padding-block: 16px;
+=======
+    padding-inline: 10px;
+    padding-block: 20px;
+>>>>>>> 4f84e6689a163b8112e9fdb13f2c0ba2753178c5
     border: none;
     font-size: 15px;
     font-weight: bold;
@@ -160,6 +170,7 @@ section {
 
 #foto img{
     width: 700px;
+<<<<<<< HEAD
 }
 
 #matricula {
@@ -223,4 +234,6 @@ section {
     background-color: red;
     color: #fff;
     font-size: 15px;
+=======
+>>>>>>> 4f84e6689a163b8112e9fdb13f2c0ba2753178c5
 }
