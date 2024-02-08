@@ -41,5 +41,33 @@
             <img src="https://github.com/Vinidev-AL/school_curso_ucb/blob/main/assets/gar.png?raw=true" alt="Menina com caderno na mão">
         </div>
     </section>
+        <!--sessão de formulários-->
+    <div id="matricula">
+        <p>Matricule-se</p>
+
+        <form action="matricula" method="post" id="form_mat">
+            <input type="text" placeholder="Nome Completo" name="nome">
+            <input type="text" placeholder="CPF" name="cpf">
+            <input type="text" placeholder="Data de nascimento">
+            <input type="email" placeholder="Email principal" name="email">
+            <input type="fone" placeholder="Telefone ou celular" name="telefone">
+            <input id="btn_mat" type="submit" value="Matricular">
+        </form>
+        <button id="btn_sair_matricula">Sair</button>
+    </div>
+
+    <div id="agendamento">
+        <p>Agenda uma visita</p>
+        <form action="agenda" method="post" id="form_agen">
+            <input type="text" placeholder="Nome Completo">
+            <input type="text" placeholder="CPF">
+            <input type="email" placeholder="Email principal">
+            <input type="tel" placeholder="Telefone ou celular">
+            <input type="datetime" placeholder="Data">
+            <input id="btn_agen" type="submit" value="Agendar">
+        </form>
+        <button id="btn_sair_agendamento">Sair</button>
+    </div>
+        <!--Encerramento-->
 </body>
 </html>
