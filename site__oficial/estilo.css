@@ -119,13 +119,8 @@ section {
 #btn_mat {
     margin-top: 30px;
     margin-left: 40px;
-<<<<<<< HEAD
-    padding-block: 15px;
-    padding-inline: 30px;
-=======
     padding-inline: 10px;
     padding-block: 20px;
->>>>>>> 4f84e6689a163b8112e9fdb13f2c0ba2753178c5
     border: none;
     font-size: 15px;
     font-weight: bold;
@@ -142,18 +137,9 @@ section {
 #btn_agen {
     margin-top: 30px;
     margin-left: 40px;
-<<<<<<< HEAD
-    padding-inline: 15px;
-    padding-block: 16px;
-=======
     padding-inline: 10px;
     padding-block: 20px;
-<<<<<<< HEAD
     border: 1px solid #000000;
-=======
->>>>>>> 4f84e6689a163b8112e9fdb13f2c0ba2753178c5
-    border: none;
->>>>>>> 109c2e54b33719caedaf1548ca2da8e8ef08082e
     font-size: 15px;
     font-weight: bold;
     background-color: transparent;
@@ -177,16 +163,8 @@ section {
 
 #foto img{
     width: 700px;
-<<<<<<< HEAD
-}
- 
-#matricula {  
-=======
-<<<<<<< HEAD
-}
 
 #matricula {
->>>>>>> 109c2e54b33719caedaf1548ca2da8e8ef08082e
     position: fixed;
     background-color: #fff;
     display: flex;
@@ -229,7 +207,6 @@ section {
     padding-left: 10px;
 }
 
-<<<<<<< HEAD
 #btn_mat { 
 padding-left: 0px;
 background-color: #07084e;
@@ -237,18 +214,6 @@ color: #fff;
 font-size: 22px;
 }
 
-#matricula button {
-width: 100px;
-height: 25px;
-border: 1px solid black;
-border-radius: 5px;
-margin-inline: 30px;
-margin-block: 5px;
-border-radius: 1px solid red;
-background-color: red;
-color: #fff;
-font-size: 15px;
-=======
 #btn_mat {
     padding-left: 0px;
     background-color: #07084e;
@@ -267,7 +232,4 @@ font-size: 15px;
     background-color: red;
     color: #fff;
     font-size: 15px;
-=======
->>>>>>> 4f84e6689a163b8112e9fdb13f2c0ba2753178c5
->>>>>>> 109c2e54b33719caedaf1548ca2da8e8ef08082e
 }
